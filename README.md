@@ -83,11 +83,11 @@ To generate an image, simply enter a descriptive text prompt into the input fiel
 - Axios - Promise-based HTTP client
 - Material UI - React component library
 
-## Authors
+## Author
 
 - Partho Shaon - [@parthoshaon](https://github.com/parthoshaon)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [@LICENSE](https://github.com/parthoshaon/Prompt-Driven-Image-Generator/blob/main/MIT-LICENSE.txt) file for details.
 
