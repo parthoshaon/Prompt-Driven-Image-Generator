@@ -5,6 +5,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "vnpm i",
     "start": "nodemon index"
   },
   "author": "",
