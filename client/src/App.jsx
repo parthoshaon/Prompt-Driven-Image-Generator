@@ -33,7 +33,7 @@ const App = () => (
     <footer className="w-full bg-white py-4 sm:px-8 px-4 text-center text-gray-500 text-sm border-t border-t-[#e6ebf4]">
       Developed by Partho Shaon |{" "}
       <a
-        href="https://github.com/parthoshaon"
+        href="https://github.com/parthoshaon/Prompt-Driven-Image-Generator"
         target="_blank"
         rel="noopener noreferrer"
         className="text-[#6469ff]"
