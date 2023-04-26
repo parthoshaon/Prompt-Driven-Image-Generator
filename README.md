@@ -46,7 +46,6 @@ To use the application, you'll need to have the following software installed on 
 
 3. Create a `.env` file in the root directory with the following environment variables:
     ```bash
-    OPENAI_API_KEY = "YOUR_OPENAI_API_KEY"
     MONGODB_URL = "YOUR_MONGODB_URL"
 
     CLOUDINARY_CLOUD_NAME = "YOUR_CLOUDINARY_CLOUD_NAME"
