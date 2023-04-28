@@ -10,7 +10,7 @@ The Prompt Driven MERN Image Generation App is a comprehensive web application t
 - [Installation](#installation)
 - [Usage](#usage)
 - [Built With](#built-with)
-- [Authors](#authors)
+- [Acknowledgements](#acknowledgements)
 - [License](#license)
 
 ## Features
@@ -83,10 +83,14 @@ To generate an image, simply enter a descriptive text prompt into the input fiel
 - Axios - Promise-based HTTP client
 - Material UI - React component library
 
-## Author
+<!-- Acknowledgments -->
+## Acknowledgements
 
-- Partho Shaon - [@parthoshaon](https://github.com/parthoshaon)
-
+This section used to mention for using useful resources and libraries that used
+ 
+ - [Adrian Hajdin](https://hr.linkedin.com/in/adrianhajdin)
+ - [Adrian Hajdin]( https://www.linkedin.com/company/javascriptmastery)
+ 
 ## License
 
 This project is licensed under the MIT License - see the [@LICENSE](https://github.com/parthoshaon/Prompt-Driven-Image-Generator/blob/main/MIT-LICENSE.txt) file for details.
