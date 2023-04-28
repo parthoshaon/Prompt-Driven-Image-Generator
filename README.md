@@ -86,7 +86,7 @@ To generate an image, simply enter a descriptive text prompt into the input fiel
 <!-- Acknowledgments -->
 ## Acknowledgements
 
-This section used to mention for using useful resources and libraries that used
+This section to mention for useful resources and libraries that used
  
  - Adrian Hajdin
  - JS Mastery
