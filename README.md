@@ -88,8 +88,8 @@ To generate an image, simply enter a descriptive text prompt into the input fiel
 
 This section used to mention for using useful resources and libraries that used
  
- - [Adrian Hajdin](https://hr.linkedin.com/in/adrianhajdin)
- - [Adrian Hajdin]( https://www.linkedin.com/company/javascriptmastery)
+ - Adrian Hajdin
+ - JS Mastery
  
 ## License
 
